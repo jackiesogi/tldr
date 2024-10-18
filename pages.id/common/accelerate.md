@@ -1,4 +1,4 @@
-# Accelerate
+# accelerate
 
 > Sebuah pustaka/library yang memungkinkan kode PyTorch yang sama dapat dijalankan secara menyebar.
 > Informasi lebih lanjut: <https://huggingface.co/docs/accelerate/index>.
@@ -25,4 +25,4 @@
 
 - Jalankan model dengan Accelerate, menggunakan GPU dari 2 perangkat yang berbeda:
 
-`accelerate launch {{jalan/menuju/script.py}} --multi_gpu --num_machines {{2}}`
+`accelerate launch {{jalan/menuju/script.py}} --multi_gpu --num_machines 2`

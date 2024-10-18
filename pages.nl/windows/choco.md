@@ -1,18 +1,18 @@
 # choco
 
 > De Chocolatey pakket manager.
-> Sommige subcommando's zoals `choco install` hebben hun eigen gebruiksdocumentatie.
+> Sommige subcommando's zoals `install` hebben hun eigen gebruiksdocumentatie.
 > Meer informatie: <https://chocolatey.org>.
 
 - Voer een Chocolatey commando uit:
 
 `choco {{commando}}`
 
-- Toon algemene hulp:
+- Toon de algemene help:
 
 `choco -?`
 
-- Toon help voor een specifiek commando:
+- Toon de help voor een specifiek commando:
 
 `choco {{commando}} -?`
 

@@ -1,8 +1,8 @@
 # adb
 
 > Android Debug-Brug: communiceer met een Android-emulator of een aangesloten Android-apparaat.
-> Sommige subcommando's zoals `adb shell` hebben hun eigen documentatie.
-> Meer informatie: <https://developer.android.com/studio/command-line/adb>.
+> Sommige subcommando's zoals `shell` hebben hun eigen documentatie.
+> Meer informatie: <https://developer.android.com/tools/adb>.
 
 - Controleer of het adb serverproces draait en start het:
 

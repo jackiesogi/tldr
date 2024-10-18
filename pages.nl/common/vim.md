@@ -11,7 +11,7 @@
 
 - Open een bestand bij een bepaald regelnummer:
 
-`vim +{{regel_nummer}} {{pad/naar/bestand}}`
+`vim +{{regelnummer}} {{pad/naar/bestand}}`
 
 - Bekijk de handleiding van Vim:
 
@@ -19,11 +19,11 @@
 
 - Opslaan en afsluiten:
 
-`:wq<Enter>`
+`{{ZZ|:wq<Enter>}}`
 
 - Terug naar normale modues en maak de laatste verandering ongedaan:
 
-`<ESC>u`
+`<Esc>u`
 
 - Zoek een patroon in het bestand (druk op `n`/`N` om naar de volgende/vorige overeenkomst te gaan):
 
